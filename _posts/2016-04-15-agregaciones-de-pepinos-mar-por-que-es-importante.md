@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Los pepinos de mar son un componente esencial en la cadena alimenticia y juegan un papel importante como detritívoros y suspensívoros (Bruckener et al., 2003). Además de su función en el ecosistema, muchas especies de holotúridos han sido sujetos a la explotación comercial. Son altamente valiosos en el mercado Asiático y son vendidos como trepang or bêche-de- mer (Anderson et al., 2010). La conservación y manejo de pepinos de mar es de gran importancia porque estos animales juegan un papel importante en los ecosistemas marinos y son una fuente significativa de ingreso para muchas comunidades alrededor del mundo (Conand, 1990; Conand and Byrne, 1994).'
-datePublished: '2016-04-15T16:15:50.127Z'
-dateModified: '2016-04-15T16:13:56.184Z'
+datePublished: '2016-04-15T16:16:59.057Z'
+dateModified: '2016-04-15T16:15:57.514Z'
 title: Agregaciones de pepinos mar -¿Por qué son importante?
 author: []
 sourcePath: _posts/2016-04-15-agregaciones-de-pepinos-mar-por-que-es-importante.md
