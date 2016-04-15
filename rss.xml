@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Isostichopus badionotus]]></title>
         <description><![CDATA[Isostichopus badionotus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/isostichopus-badionotus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 15:55:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 15:58:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/isostichopus-badionotus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/isostichopus-badionotus/4ed91bc2-5809-4996-969b-ea461f3d6f2d/index.html</link>
+            <guid isPermaLink="false">4ed91bc2-5809-4996-969b-ea461f3d6f2d</guid>
+            <pubDate>Fri, 15 Apr 2016 15:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://isostichopusbadionotus.files.wordpress.com/2016/04/p3050064.jpg?w=562&h=461&crop=1">]]></description>
-            <link>undefinedd889843d-76f2-46dc-b76a-e65634442e7c/index.html</link>
+            <link>https://thegrid.ai/isostichopus-badionotus/d889843d-76f2-46dc-b76a-e65634442e7c/index.html</link>
             <guid isPermaLink="false">d889843d-76f2-46dc-b76a-e65634442e7c</guid>
             <pubDate>Fri, 15 Apr 2016 15:55:21 GMT</pubDate>
         </item>
