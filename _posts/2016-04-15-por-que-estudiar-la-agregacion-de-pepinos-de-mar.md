@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "La limitación de esperma en\_animales con\_fertilización externa ha ejercido una selección intensa en comportamientos reproductivos frecuentemente ligados a la adecuación (Thornhill and Alcock 1983). Los holotúridos como taxa móvil tienen el potencial de exhibir patrones de movimiento que permitirían acercar individuos en fase reproductiva en agregaciones para disminuir el efecto de la dilución de gametos.\_ Para los pepinos de mar hay evidencia de agregación previa al desove en respuesta al ciclo lunar en experimentos realizados en acuarios para especies del indo pacifico (Hamel and Mercier, 1996).Sin embargo estos patrones de agregación antes y durante la temporada reproductiva para especies caribeñas no han sido reportados en el campo."
-datePublished: '2016-04-17T17:56:21.019Z'
-dateModified: '2016-04-17T17:56:17.732Z'
+datePublished: '2016-04-17T17:59:11.527Z'
+dateModified: '2016-04-17T17:59:08.651Z'
 title: ¿Por qué estudiar la agregación de pepinos de mar?
 author: []
 sourcePath: _posts/2016-04-15-por-que-estudiar-la-agregacion-de-pepinos-de-mar.md
@@ -26,7 +26,7 @@ _type: Article
 
 La limitación de esperma en animales con fertilización externa ha ejercido una selección intensa en comportamientos reproductivos frecuentemente ligados a la adecuación (Thornhill and Alcock 1983). Los holotúridos como taxa móvil tienen el potencial de exhibir patrones de movimiento que permitirían acercar individuos en fase reproductiva en agregaciones para disminuir el efecto de la dilución de gametos.  Para los pepinos de mar hay evidencia de agregación previa al desove en respuesta al ciclo lunar en experimentos realizados en acuarios para especies del indo pacifico (Hamel and Mercier, 1996).Sin embargo estos patrones de agregación antes y durante la temporada reproductiva para especies caribeñas no han sido reportados en el campo.
 
-Las poblaciones de pepinos de mar son particularmente vulnerables dada la susceptibilidad a la sobrepesca, características biológicas y valor comercial. Las poblaciones de holotúridos en general parecen tener tasas lentas de recuperación y son fácilmente pescados en las aguas someras de los trópicos. Como resultado, la sobreexplotación de muchas pesquerías tropicales han dejado los suministros agotados y las pesquerías se han dirigido a especies de menor valor comercial, dirigiéndose a la sobrepescaen serie (Purcell, 2010). Estudios hechos con distintas especies de equinodermos muestran que hay un porcentaje de 75% de éxito reproductivo cuando la densidad de individuos reproductivamente activos es entre 5 y 8 ind./ m2 (Hamel and Mercier, 1996) pero cuando el vecino más cercano esta varios metros más separado,  el éxito reproductivo puede reducirse a cero.
+Las poblaciones de pepinos de mar son particularmente vulnerables dada la susceptibilidad a la sobrepesca, características biológicas y valor comercial. Las poblaciones de holotúridos en general parecen tener tasas lentas de recuperación y son fácilmente pescados en las aguas someras de los trópicos. Como resultado, la sobre explotación de muchas pesquerías tropicales han dejado los suministros agotados y las pesquerías se han dirigido a especies de menor valor comercial, dirigiéndose a la sobrepescaen serie (Purcell, 2010). Estudios hechos con distintas especies de equinodermos muestran que hay un porcentaje de 75% de éxito reproductivo cuando la densidad de individuos reproductivamente activos es entre 5 y 8 ind./ m2 (Hamel and Mercier, 1996) pero cuando el vecino más cercano esta varios metros más separado,  el éxito reproductivo puede reducirse a cero.
 
 El conocimiento de los patrones de agregación de I. badionotus es relevante porque nos ayuda a entender la dinámica de agregaciones potenciales que promueven el éxito reproductivo en esta especie en particular.
 
