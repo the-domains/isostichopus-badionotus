@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Los pepinos de mar son un\_recurso importante para las comunidades costeras y los ecosistemas marinos. La función principal de los holotúridos es la bioturbación de sedimento y el reciclaje de Material Orgánico (Birkeland, 1988). Los holoturios convierten el detrito orgánico en téjido animal y desechos nitrogenados que pueden ser aprovechados por algas (Uthicke and Klumpp 1998; Uthicke 2001) y pastos marinos (Wolkenhauer et al. 2010).\_ Los juveniles son presa importante en las cadenas alimenticias (Francour 1997; So et al. 2010), y los adultos son importantes en el funcionamiento del ecosistema (Birkeland 1988; Uthicke 2001; Wolkenhauer et al. 2010). En arrecifes de coral, donde los nutrientes son limitantes, este role en reciclaje de nutrientes es aparentemente significativo (Uthicke, 2001)."
-datePublished: '2016-04-17T17:22:18.538Z'
-dateModified: '2016-04-17T17:21:42.641Z'
+datePublished: '2016-04-17T17:24:58.001Z'
+dateModified: '2016-04-17T17:23:47.843Z'
 title: ¿Por qué estudiar la agregación de pepinos de mar?
 author: []
 sourcePath: _posts/2016-04-15-por-que-estudiar-la-agregacion-de-pepinos-de-mar.md
