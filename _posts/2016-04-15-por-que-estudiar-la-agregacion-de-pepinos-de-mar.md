@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Los pepinos de mar son un\_recurso importante para las comunidades costeras y los ecosistemas marinos. La función principal de los holotúridos es la bioturbación de sedimento y el reciclaje de Material Orgánico (Birkeland, 1988). Los holoturios convierten el detrito orgánico en téjido animal y desechos nitrogenados que pueden ser aprovechados por algas (Uthicke and Klumpp 1998; Uthicke 2001) y pastos marinos (Wolkenhauer et al. 2010).\_ Los juveniles son presa importante en las cadenas alimenticias (Francour 1997; So et al. 2010), y los adultos son importantes en el funcionamiento del ecosistema (Birkeland 1988; Uthicke 2001; Wolkenhauer et al. 2010). En arrecifes de coral, donde los nutrientes son limitantes, este role en reciclaje de nutrientes es aparentemente significativo (Uthicke, 2001)."
-datePublished: '2016-04-15T19:01:46.820Z'
-dateModified: '2016-04-15T18:57:33.856Z'
+datePublished: '2016-04-17T17:01:45.944Z'
+dateModified: '2016-04-15T19:01:54.926Z'
 title: ¿Por qué estudiar la agregación de pepinos de mar?
 author: []
 sourcePath: _posts/2016-04-15-por-que-estudiar-la-agregacion-de-pepinos-de-mar.md
@@ -44,9 +44,12 @@ Hamel JF, Mercier A. 1996\. Gamete dispersion and fertilisa- tion success of the
 
 Purcell, S. 2010\. Managing Sea Cucumber Fisheries with an Ecosystem Approach. FAO Fisheries and Aquaculture Technical Paper No. 520, FAO, Rome.
 
-So, J.J., Hamel, J.-F. and Mercier, A. 2010\. Habitat utilisation, growth and predation of Cucumaria frondosa: implications for an emerging sea cucumber fishery. Fisheries Management and Ecology 17, 473--484\.  
-Thornhill, R., Alcock, J. 1983\. The evolution of insect mating systems. Harvard University Press, Cambridge, Mass.  
-Uthicke, S. and Klumpp, D.W. 1998\. Microphytobenthos community production at a near-shore coral reef: seasonal variation and response to ammonium recycled by holothurians. Marine Ecology Progress Series 169, 1--1\.  
+So, J.J., Hamel, J.-F. and Mercier, A. 2010\. Habitat utilisation, growth and predation of Cucumaria frondosa: implications for an emerging sea cucumber fishery. Fisheries Management and Ecology 17, 473--484\.
+
+Thornhill, R., Alcock, J. 1983\. The evolution of insect mating systems. Harvard University Press, Cambridge, Mass.
+
+Uthicke, S. and Klumpp, D.W. 1998\. Microphytobenthos community production at a near-shore coral reef: seasonal variation and response to ammonium recycled by holothurians. Marine Ecology Progress Series 169, 1--1\.
+
 Uthicke, S. 2001\. Nutrient regeneration by abundant coral reef holothurians. Journal of Experimental Marine Biology and Ecology 265, 153--170\.
 
 Wolkenhauer, S.-M., Uthicke, S., Burridge, C., Skewes, T. and Pitcher, R. (2010) The ecological role of Holtohuria scabra (Echinodermata: Holothuroidea) within subtropical seagrass beds. Journal of the Marine Biological Association of the United Kingdom 90, 215--223\.
