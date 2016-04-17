@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.elheraldo.co/magdalena/investigadores-de-unimag-descub
 inLanguage: null
 starred: false
 keywords: []
-description: 'Periodico El Heraldo: Últimas noticias de Barranquilla, la región Caribe, Colombia y el mundo. Actualizaciones las 24 horas. Informate ya.'
-datePublished: '2016-04-17T17:45:49.724Z'
-dateModified: '2016-04-17T17:45:38.770Z'
+description: 'Luego de hacer los estudios morfológicos y su caracterización externa, se pudo comprobar que existen diferencias con el más común de los pepinos de mar del Caribe colombiano: el Isostichopus badionotus.'
+datePublished: '2016-04-17T17:47:55.815Z'
+dateModified: '2016-04-17T17:47:43.653Z'
 author: []
 related: []
 app_links: []
