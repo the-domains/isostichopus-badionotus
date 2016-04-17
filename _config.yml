@@ -1,6 +1,6 @@
 name: Isostichopus badionotus
 favicon: null
-layout_spectrum: 0.90364
+layout_spectrum: 0.25686
 typography_spectrum: 0.8332210339140147
 title: Isostichopus badionotus
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#7991b5'
-    - '#b9c2d1'
-    - '#195055'
-    - '#050507'
-    - '#ffee79'
+    - '#304035'
+    - '#7b886c'
+    - '#a4ae8c'
+    - '#dae2bd'
+    - '#fbfee9'
   brandStrength: 0.5
   lightness: 0.44977094512432814
   saturation: 0.5515685263089836
