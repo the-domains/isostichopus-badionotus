@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Luego de hacer los estudios morfológicos y su caracterización externa, se pudo comprobar que existen diferencias con el más común de los pepinos de mar del Caribe colombiano: el Isostichopus badionotus.'
-datePublished: '2016-04-17T17:47:55.815Z'
-dateModified: '2016-04-17T17:47:43.653Z'
+datePublished: '2016-04-17T17:57:58.918Z'
+dateModified: '2016-04-17T17:57:56.332Z'
 author: []
 related: []
 app_links: []
