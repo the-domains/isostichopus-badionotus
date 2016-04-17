@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "La limitación de esperma en\_animales con\_fertilización externa ha ejercido una selección intensa en comportamientos reproductivos frecuentemente ligados a la adecuación (Thornhill and Alcock 1983). Los holotúridos como taxa móvil tienen el potencial de exhibir patrones de movimiento que permitirían acercar individuos en fase reproductiva en agregaciones para disminuir el efecto de la dilución de gametos.\_ Para los pepinos de mar hay evidencia de agregación previa al desove en respuesta al ciclo lunar en experimentos realizados en acuarios para especies del indo pacifico (Hamel and Mercier, 1996).Sin embargo estos patrones de agregación antes y durante la temporada reproductiva para especies caribeñas no han sido reportados en el campo."
-datePublished: '2016-04-17T17:55:03.814Z'
-dateModified: '2016-04-17T17:53:47.885Z'
+datePublished: '2016-04-17T17:56:21.019Z'
+dateModified: '2016-04-17T17:56:17.732Z'
 title: ¿Por qué estudiar la agregación de pepinos de mar?
 author: []
 sourcePath: _posts/2016-04-15-por-que-estudiar-la-agregacion-de-pepinos-de-mar.md
