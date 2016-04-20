@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.sciencedirect.com'
-  name: Sciencedirect
-  favicon: 'http://cdn.els-cdn.com/sd/favSD.ico'
-  domain: www.sciencedirect.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.sciencedirect.com/science/article/pii/S0044848612005340'
+inLanguage: en
+starred: false
 keywords:
   - cucumber
   - sandfish
@@ -18,17 +17,20 @@ keywords:
   - nursery
   - ranching
 description: JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. This page uses JavaScript to progressively load the article content as a user scrolls. Click the View full text link to bypass dynamically loaded article content.
-inLanguage: en
+datePublished: '2016-04-20T19:48:27.671Z'
+dateModified: '2016-04-20T19:48:19.755Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.sciencedirect.com/science/article/pii/S0044848612005340'
 title: 'Sea cucumber culture, farming and sea ranching in the tropics: Progress, problems and opportunities'
-datePublished: '2016-04-20T19:44:45.832Z'
-dateModified: '2016-04-17T22:11:29.753Z'
 sourcePath: _posts/2016-04-20-sea-cucumber-culture-farming-and-sea-ranching-in-the-tropic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Sciencedirect
+  domain: www.sciencedirect.com
+  url: 'http://www.sciencedirect.com'
+  favicon: 'http://cdn.els-cdn.com/sd/favSD.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
