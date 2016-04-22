@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Diagnóstico: Dorsal café, beige, amarillo o negro. El cuerpo es relativamente firme y alongado con las puntas anterior y posterior redondeadas. La forma del cuerpo es sub cilíndrica; Arqueado dorsalmente y plano ventralmente. La superficie dorsal está cubierta por papilas cafés-negras. Las papilas en el margen lateral son largas , robustas y cónicas con las puntas redondeadas. La boca es ventral con 20 tentaculos largos.|\x10"
-datePublished: '2016-04-22T22:39:53.839Z'
-dateModified: '2016-04-22T22:39:28.367Z'
+datePublished: '2016-04-22T22:40:49.813Z'
+dateModified: '2016-04-22T22:40:47.657Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-caracteristicas-fisicas-de-i-badionotus.md
