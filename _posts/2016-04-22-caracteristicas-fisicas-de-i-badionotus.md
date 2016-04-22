@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Isostichopus badionotus (Selenka, 1967)'
-datePublished: '2016-04-22T21:01:20.812Z'
-dateModified: '2016-04-22T21:01:12.152Z'
+datePublished: '2016-04-22T22:29:22.148Z'
+dateModified: '2016-04-22T22:25:47.166Z'
 title: ''
 author: []
 authors: []
