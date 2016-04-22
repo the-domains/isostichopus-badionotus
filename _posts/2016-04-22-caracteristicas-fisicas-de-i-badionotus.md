@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Isostichopus badionotus (Selenka, 1967)'
-datePublished: '2016-04-22T18:43:40.105Z'
-dateModified: '2016-04-22T18:43:39.662Z'
+datePublished: '2016-04-22T21:01:20.812Z'
+dateModified: '2016-04-22T21:01:12.152Z'
 title: ''
 author: []
 authors: []
@@ -26,8 +26,6 @@ _type: Article
 
 Isostichopus badionotus (Selenka, 1967)
 
+Diagnóstico: Dorsal café, beige, amarillo o negro. El cuerpo es relativamente firme y alongado con las puntas anterior y posterior redondeadas. La forma del cuerpo es sub cilíndrica; Arqueado dorsalmente y plano ventralmente. La superficie dorsal está cubierta por papilas cafés-negras. Las papilas en el margen lateral son largas , robustas y cónicas con las puntas redondeadas. La boca es ventral con 20 tentaculos largos.|
+
 Nombre común: Sea cucumber, four sided sea cucumber, Three rowed sea cucumber, Chocolate chip sea cucumber, pepino de mar, Sea pudding
-
-Diagnóstico: Dorsal café, beige, amarillo o negro. El cuerpo es relativamente firme y alongado con las puntas anterior y posterior redondeadas. La forma del cuerpo es sub cilíndrica; Arqueado dorsalmente y plano ventralmente. La superficie dorsal está cubierta por papilas cafés-negras. Las papilas en el margen lateral son largas , robustas y cónicas con las puntas redondeadas. La boca es ventral con 20 tentaculos largos.
-
-|
