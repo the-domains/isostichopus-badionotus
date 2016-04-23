@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://progresohoy.com/noticias/aprueba-el-senado-hasta-nueve-ano
 inLanguage: es
 keywords: []
 description: 'MÉXICO.- Ayer, en el pleno del Senado de la República, se aprobó con 83 votos a favor y uno en contra, el proyecto de decreto que reforman las fracciones I y II, y se derogan las fracciones II bis, III, IV y V, del artículo 420 del Código Penal Federal, y se reforma el artículo'
-datePublished: '2016-04-23T18:59:17.503Z'
-dateModified: '2016-04-23T18:59:04.301Z'
+datePublished: '2016-04-23T19:03:15.542Z'
+dateModified: '2016-04-23T19:03:09.321Z'
 author:
   - name: Progreso Hoy
     url: null
