@@ -14,8 +14,8 @@ description: 'Female Sea cucumber spawning Isostichopus badionotus, Bocas del To
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=MbxWeaS8gDQ'
 title: Female Sea Cucumber Spawning/ Female Sea Cucumber Spawning
-datePublished: '2016-04-30T04:24:58.696Z'
-dateModified: '2016-04-30T04:23:40.744Z'
+datePublished: '2016-04-30T04:38:03.568Z'
+dateModified: '2016-04-30T04:36:47.295Z'
 starred: false
 sourcePath: _posts/2016-04-30-female-sea-cucumber-spawning-female-sea-cucumber-spawning.md
 published: true
