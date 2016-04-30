@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://onlinelibrary.wiley.com'
-  name: Wiley
-  favicon: 'http://onlinelibrary.wiley.com/favicon.ico'
-  domain: onlinelibrary.wiley.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://onlinelibrary.wiley.com/doi/10.1111/jwas.12061/abstract'
+inLanguage: en
 keywords:
   - larval
   - badionotus
@@ -18,18 +16,21 @@ keywords:
   - html
   - pdf
 description: 'Zacarías-Soto, M., Olvera-Novoa, M. A., Pensamiento-Villarauz, S. and Sánchez-Tapia, I. (2013), Spawning and Larval Development of the Four-Sided Sea Cucumber, Isostichopus badionotus (Selenka 1867), under Controlled Conditions. Journal of the World Aquaculture Society, 44: 694-705. doi: 10.1111/jwas.12061'
-inLanguage: en
+datePublished: '2016-04-30T16:43:26.937Z'
+dateModified: '2016-04-30T16:42:58.112Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://onlinelibrary.wiley.com/doi/10.1111/jwas.12061/abstract'
 title: 'Spawning and Larval Development of the Four-Sided Sea Cucumber, Isostichopus badionotus (Selenka 1867), under Controlled Conditions'
-datePublished: '2016-04-23T19:11:42.276Z'
-dateModified: '2016-04-23T19:09:23.337Z'
-starred: false
 sourcePath: _posts/2016-04-23-spawning-and-larval-development-of-the-four-sided-sea-cucumb.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Wiley
+  domain: onlinelibrary.wiley.com
+  url: 'http://onlinelibrary.wiley.com'
+  favicon: 'http://onlinelibrary.wiley.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
