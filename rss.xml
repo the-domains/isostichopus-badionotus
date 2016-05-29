@@ -4,14 +4,21 @@
         <description><![CDATA[Isostichopus badionotus]]></description>
         <link>https://thegrid.ai/isostichopus-badionotus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 22:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 22:33:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/isostichopus-badionotus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://revistas.ucr.ac.cr/index.php/rbt/article/viewFile/16887/21820/50417">]]></description>
-            <link>https://thegrid.ai/isostichopus-badionotus/45ca410f-f3cf-4e16-ac0b-754b80ae60a1/index.html</link>
+            <link>http://revistas.ucr.ac.cr/index.php/rbt/article/viewFile/16887/21820/50417</link>
             <guid isPermaLink="false">45ca410f-f3cf-4e16-ac0b-754b80ae60a1</guid>
-            <pubDate>Sun, 29 May 2016 22:29:17 GMT</pubDate>
+            <pubDate>Sun, 29 May 2016 22:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergara]]></title>
+            <description><![CDATA[<article><h1>Vergara</h1><p>La conformación anatómica e histológica del tubo digestivo fue similar en las tres especies, con forma cilíndrica, lisa, con pliegues a partir de su porción media. Macroscópicamente se observaron siete partes: tentáculos, boca, faringe, esófago, estómago, intestino (dividido en anterior, medio y posterior), y cloaca (Fig. 2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf3aa7a4c86c2fd0d1afabc6534abbcf78fb097.jpg"></article>]]></description>
+            <link>http://revistas.ucr.ac.cr/index.php/rbt/rt/printerFriendly/16887/21820</link>
+            <guid isPermaLink="false">a7f527f5-9a63-4bcd-bfc5-e8314c2baadd</guid>
+            <pubDate>Sun, 29 May 2016 22:32:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/isostichopus-badionotus/caracteristicas-fisicas-de-i-badionotus/index.html</link>
             <guid isPermaLink="false">a0ab35cf-ad26-4d70-8e2e-c777fc12acda</guid>
             <pubDate>Fri, 22 Apr 2016 22:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gastrula I. badionotus]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f16447b-19f4-435f-ad94-88e041ed9148.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/isostichopus-badionotus/gastrula-i-badionotus/index.html</link>
-            <guid isPermaLink="false">2c843216-9c33-4a3b-9c88-659e52786250</guid>
-            <pubDate>Fri, 22 Apr 2016 22:27:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
